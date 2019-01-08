@@ -4,7 +4,7 @@
 
 ##### Licensed under the MIT license (See LICENSE)
 
-Docker Hub: `someguy123/net-tools`
+**Docker Hub:** [someguy123/net-tools](https://hub.docker.com/r/someguy123/net-tools)
 
 This is a docker image which builds Ubuntu 18.04 LTS with various networking tools pre-installed, for debugging networks.
 
