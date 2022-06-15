@@ -36,6 +36,7 @@ More detailed information on how to use this image, including how to use it in [
 - **mtr-tiny**      - fast and easy to read realtime traceroutes for both IPv4 and IPv6 (tiny version skips all the GTK bloat)
 - **dnsutils**      - provides tools such as `dig` and `nslookup` for DNS debugging
 - **net-tools**     - basic networking tools such as `ifconfig`, `netstat`, `route`, `arp`
+- **dhclient**      - DHCP client from `isc-dhcp-client` package
 - **nmap**          - port scanning and other network reconnaissance
 - **traceroute**    - self explanatory. alternative to `mtr`
 - **netcat**        - `nc` tool. highly versatile TCP/UDP/unixsocket client and server
